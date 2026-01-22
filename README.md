@@ -24,7 +24,7 @@ Different types of variables are used:
 Example:
 age = 21  
 height = 5.9  
-name = "Hrishitosh"  
+name = "Rishitosh"  
 is_student = True  
 
 ### Data Type Checking
